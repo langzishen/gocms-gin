@@ -1,6 +1,8 @@
-# gocms
+# gocms-gin
 
 gocms是go语言实现的一套cms内容管理系统,服务端使用go语言,主体框架使用[gin](https://github.com/gin-gonic/gin)框架,采用mvc架构,管理后台前端使用[topjui](https://www.topjui.com/),数据库使用mysql,ORM使用[goorm](https://gorm.io),内置RBAC、UPLOAD、OSS等扩展。
+
+* [gocms-iris版版点击此](https://github.com/langzishen/gocms)
 
 #### 环境搭建：
 
